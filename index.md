@@ -4,19 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I'm a postdoc researcher at King Abdullah University of Science and Technology (KAUST), working with Prof. <a href="https://www.mohamed-elhoseiny.com/">Mohamed Elhoseiny</a> at <a href="https://cemse.kaust.edu.sa/vision-cair">Vision-CAIR</a>. I obtained Ph.D. degree from <a href="http://en.whu.edu.cn/">Wuhan University</a>, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=SAUCVsEAAAAJ&hl=zh-CN">Gui-Song Xia</a> in <a href="http://www.captain-whu.com/en/">CAPTAIN</a> Group. I was a visiting scholar at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning"> CVML</a> group of Max Planck Institute for Informatics advised by Dr. <a href="https://www.linkedin.com/in/dengxin-dai-2412725a/?originalSubdomain=ch">Dengxin Dai.</a> My current research interests includes vision-language models and embodied AI.
 
 {% include_relative _includes/publications.md %}
 

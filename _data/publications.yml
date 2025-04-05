@@ -1,22 +1,118 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding"
+    authors: Kirolos Ataallah, Chenhui Gou, Eslam Abdelrahman, Khushbu Pahwa, <strong>Jian Ding</strong>, Mohamed Elhoseiny
+    conference: Arxiv, 2024
+    pdf: https://arxiv.org/abs/2406.19875
+    page: https://vision-cair.github.io/InfiniBench/
+    image: ./assets/img/paper_InfiniBench.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens"
+    authors: Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Deyao Zhu, <strong>Jian Ding</strong>, Mohamed Elhoseiny
+    conference: Arxiv, 2024.
+    pdf: https://arxiv.org/pdf/2404.03413
+    page: https://vision-cair.github.io/MiniGPT4-video/
+    image: ./assets/img/paper_MiniGPT4-Video.jpg
+
+  - title: "FreePoint: Unsupervised Point Cloud Instance Segmentation"
+    authors: Zhikai Zhang, <strong>Jian Ding</strong>, Li Jiang, Dengxin Dai, Gui-Song Xia
+    conference: CVPR, 2024.
+    pdf: https://arxiv.org/pdf/2404.03413
+    image: ./assets/img/paper_FreePoint.jpg
+
+  - title: "Uni3DL: Unified Model for 3D and Language Understanding"
+    authors: Xiang Li*, <strong>Jian Ding</strong>*, Zhaoyang Chen, Mohamed Elhoseiny
+    conference: ECCV, 2024.
+    pdf: https://arxiv.org/abs/2312.03026
+    page: https://uni3dl.github.io/
+    image: ./assets/img/paper_Uni3DL.jpg
+
+  - title: "Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer"
+    authors: Yaoting Wang, Weisong Liu, Guangyao Li, <strong>Jian Ding</strong>, Di Hu, Xi Li
+    conference: AAAI, 2024.
+    pdf: https://arxiv.org/abs/2309.07929
+    image: ./assets/img/paper_GAVS.jpg
+
+  - title: "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation"
+    authors: <strong>Jian Ding</strong>, Nan Xue, Gui-Song Xia, Bernt Schiele, Dengxin Dai
+    conference: CVPR, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_HGFormer_Hierarchical_Grouping_Transformer_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf
+    code: https://github.com/dingjiansw101/HGFormer
+    image: ./assets/img/paper_HGFormer.jpg
+
+  - title: "Few-Shot Object Detection via Variational Feature Aggregation"
+    authors: Jiaming Han, Yuqiang Ren, <strong>Jian Ding</strong>, Ke Yan, Gui-Song Xia
+    conference: AAAI, 2023.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25153/24925
+    code: https://github.com/csuhan/VFA
+    image: ./assets/img/paper_FSDet.jpg
+
+  - title: "Decoupling Zero-Shot Semantic Segmentation"
+    authors: <strong>Jian Ding</strong>, Nan Xue, Gui-Song Xia, Dengxin Dai
+    conference: CVPR, 2022.
+    pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Decoupling_Zero-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf
+    code: https://github.com/dingjiansw101/ZegFormer
+    image: ./assets/img/paper_ZegFormer.jpg
+
+  - title: "Expanding Low-Density Latent Regions for Open-Set Object Detection"
+    authors: Jiaming Han, Yuqiang Ren, <strong>Jian Ding</strong>, Ke Yan, Gui-Song Xia
+    conference: CVPR, 2022.
+    pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Expanding_Low-Density_Latent_Regions_for_Open-Set_Object_Detection_CVPR_2022_paper.pdf
+    code: https://github.com/csuhan/opendet2
+    image: ./assets/img/paper_OpenDet.jpg
+
+  - title: "Deeply Unsupervised Patch Re-identification for Pre-training Object Detectors"
+    authors: <strong>Jian Ding</strong>*, Enze Xie*, Hang Xu, Chenhan Jiang, Zhenguo Li, Ping Luo, Gui-Song Xia
+    conference: TPAMI, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9749837
+    image: ./assets/img/paper_DUPR.jpg
+
+  - title: "Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges"
+    authors: <strong>Jian Ding</strong>, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang
+    conference: TPAMI, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9560031
+    code: https://github.com/dingjiansw101/AerialDetection
+    page: https://captain-whu.github.io/DOTA/
+    image: ./assets/img/paper_DOTAv2.jpg
+
+  - title: "DetCo: Unsupervised Contrastive Learning for Object Detection"
+    authors: Enze Xie*, <strong>Jian Ding</strong>*, Wenhai Wang, Xiaohang Zhan, Hang Xu, Zhenguo Li, Ping Luo
+    conference: ICCV, 2021.
+    pdf: https://arxiv.org/abs/2102.04803
+    code: https://github.com/xieenze/DetCo
+    image: ./assets/img/paper_DetCo.jpg
+
+  - title: "ReDet: A Rotation-equivariant Detector for Aerial Object Detection"
+    authors: Jiaming Han*, <strong>Jian Ding</strong>*, Nan Xue, Gui-Song Xia
+    conference: CVPR, 2021.
+    pdf: http://arxiv.org/abs/2103.07733
+    code: https://github.com/csuhan/ReDet
+    image: ./assets/img/paper_ReDet.jpg
+
+  - title: "Align Deep Features for Oriented Object Detection"
+    authors: Jiaming Han*, <strong>Jian Ding</strong>*, Jie Li, Gui-Song Xia
+    conference: TGRS, 2020.
+    pdf: https://arxiv.org/abs/2008.09397
+    code: https://github.com/csuhan/s2anet
+    image: ./assets/img/paper_S2ANet.jpg
+  
+  - title: "Learning RoI Transformer for Detecting Oriented Objects in Aerial Images"
+    authors: <strong>Jian Ding</strong>, Nan Xue, Yang Long, Gui-Song Xia, Qikai Lu
+    conference: CVPR, 2019.
+    pdf: https://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf
+    code: https://github.com/dingjiansw101/AerialDetection
+    image: ./assets/img/paper_RoITransformer.jpg
+
+  - title: "Mask OBB: A semantic attention-based mask oriented bounding box representation for multi-category object detection in aerial images"
+    authors: Jinwang Wang*, <strong>Jian Ding</strong>*, Haowen Guo, Wensheng Cheng, Ting Pan, Wen Yang
+    conference: Remote Sensing, 2019.
+    pdf: https://www.mdpi.com/2072-4292/11/24/2930
+    image: ./assets/img/paper_MaskOBB.jpg
+
+  - title: "DOTA: A Large-scale Dataset for Object Detection in Aerial Images"
+    authors: Gui-Song Xia, Xiang Bai, <strong>Jian Ding</strong>, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang
+    conference: CVPR, 2018.
+    pdf: http://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf
+    page: https://captain-whu.github.io/DOTA/
+    image: ./assets/img/paper_DOTA.jpg
+  
