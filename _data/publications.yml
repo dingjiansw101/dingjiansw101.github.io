@@ -1,5 +1,24 @@
 main:
 
+  - title: "Diffusion-based imaginative coordination for bimanual manipulation"
+    authors: Huilin Xu, <strong><u>Jian Ding</u></strong>, Jiakun Xu, Ruixiang Wang, Jun Chen, Jinjie Mai, Yanwei Fu, Bernard Ghanem, Feng Xu, and Mohamed Elhoseiny
+    conference: ICCV, 2025
+    image: ./assets/img/videoprediction.jpg
+
+  - title: "Kestrel: Part Aware Point Grounding 3D Vision Large Multimodal Model"
+    authors: Junjie Fei, Mahmoud Ahmed, <strong><u>Jian Ding</u></strong>, Eslam Mohamed Bark, Mohamed Elhoseiny.\
+    conference: ICCV, 2025
+    pdf: https://arxiv.org/abs/2405.18937
+    page: https://feielysia.github.io/Kestrel.github.io/
+    image: ./assets/img/kestrel.jpg
+
+  - title: "VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding"
+    authors: Xiang Li, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
+    conference: NeruIPS, 2024
+    pdf: https://arxiv.org/abs/2406.12384
+    page: https://vrsbench.github.io/
+    image: ./assets/img/vrsbench.png
+
   - title: "InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding"
     authors: Kirolos Ataallah, Chenhui Gou, Eslam Abdelrahman, Khushbu Pahwa, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
     conference: Arxiv, 2024

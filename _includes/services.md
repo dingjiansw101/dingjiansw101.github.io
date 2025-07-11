@@ -19,5 +19,4 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)</autocolor></a></li>
   <li><a href="https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/"><autocolor>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
 </ul>
