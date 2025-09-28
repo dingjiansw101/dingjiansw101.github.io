@@ -28,7 +28,7 @@ main:
 
   - title: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens"
     authors: Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Deyao Zhu, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
-    conference: Arxiv, 2024.
+    conference: CVPRW, 2024.
     pdf: https://arxiv.org/pdf/2404.03413
     page: https://vision-cair.github.io/MiniGPT4-video/
     image: ./assets/img/paper_MiniGPT4-Video.jpg
