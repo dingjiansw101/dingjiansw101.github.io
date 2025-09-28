@@ -1,7 +1,14 @@
 main:
+  - title: "InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding"
+    authors: Kirolos Ataallah, Chenhui Gou, Eslam Abdelrahman, Khushbu Pahwa, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
+    conference: EMNLP, 2025.
+    pdf: https://arxiv.org/abs/2406.19875
+    page: https://vision-cair.github.io/InfiniBench/
+    image: ./assets/img/paper_InfiniBench.jpg
 
   - title: "Diffusion-based imaginative coordination for bimanual manipulation"
     authors: Huilin Xu, <strong><u>Jian Ding</u></strong>, Jiakun Xu, Ruixiang Wang, Jun Chen, Jinjie Mai, Yanwei Fu, Bernard Ghanem, Feng Xu, and Mohamed Elhoseiny
+    pdf: https://arxiv.org/abs/2507.11296
     conference: ICCV, 2025.
     image: ./assets/img/videoprediction.png
 
@@ -18,13 +25,6 @@ main:
     pdf: https://arxiv.org/abs/2406.12384
     page: https://vrsbench.github.io/
     image: ./assets/img/vsbench.png
-
-  - title: "InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding"
-    authors: Kirolos Ataallah, Chenhui Gou, Eslam Abdelrahman, Khushbu Pahwa, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
-    conference: Arxiv, 2024.
-    pdf: https://arxiv.org/abs/2406.19875
-    page: https://vision-cair.github.io/InfiniBench/
-    image: ./assets/img/paper_InfiniBench.jpg
 
   - title: "MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens"
     authors: Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Deyao Zhu, <strong><u>Jian Ding</u></strong>, Mohamed Elhoseiny
